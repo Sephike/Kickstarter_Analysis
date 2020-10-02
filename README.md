@@ -3,9 +3,12 @@ Looking at kickstarter campaigns data and looking for trends in the data.
 ---
 # Kickstarting with Excel
 
-## Create a yearsd column, make a pivot table showing parent categories and years as a filter and count the number of successes, failures, canceled, and live kickstarters there were in that dataset. Next create a new sheet that gathers info about the outcomes based on the goals that were set and how the goal affected the kickstarter.
+## Create a years column, make a pivot table showing parent categories and years as a filter and count the number of successes, failures, canceled, and live kickstarters there were in that dataset. Next create a new sheet that gathers info about the outcomes based on the goals that were set and how the goal affected the kickstarter.
 ---
+## Purpose
 ### In this project we were tasked with using the same dataset as before from louise and started by making a new column for years, this would be used to deteremine the year the kickstarter started in. Next we looked to find how the theater category affected the success of a kickstarter dependent on the launch date, now to look for a trend in the plays subcategory and see how dependent the funding goals were for a high success percentage or a failed, canceled , or live percentage, this would be used to deteremine if the goal set is considered an outlier on our chart or within the success margin.
+---
+## 
 ---
 ## Theater Outcomes Based on Launch Dates
 ### The information in the pivot chart for how the theater outcomes are deteremined using the information gathered from the year column, this way we can look at each year and see how each kickstarter did in certain months, this can help choose the ideal time frame to run a theater campaign. The only problems I can see in this area is messing up on the years column and forgetting to add the +DATE(1970, 1, 1), I personal had a little trouble setting up the table the right way at first and learned that right clicking the years in the pivot table itself allowed me to group the year into a different format, one that only shows months in the first column.
