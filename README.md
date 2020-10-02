@@ -16,7 +16,7 @@ Looking at kickstarter campaigns data and looking for trends in the data.
 ---
 ![Outcomes Based on Launch Dates pivot table](Resources/Outcomes_Based_on_Launch_Dates_pivot_table.png)
 ---
-![Outcomes vs Launch Date](Resources/Outcomes_vs_Launch.png)
+![Theater Outcomes vs Launch Date](Resources/Theater_Outcomes_vs_Launch1.png)
 ---
 ## Oucomes Based on Goals
 ### As for the outcomes based on goals I started by making a new sheet and entering the information given then worked through the formulas and got a dataset from the ranges I put in place this was helpful to deteremine the chances of a successful kickstarter based on the goal that is set and can help to prevent wasting time. I had a bit of trouble with getting the graph to show similar data and learned that the filters that are applied on the kickstarter sheet do not apply to the COUNTIFS function so I must put that in the range to prevent all the data from coming through, I had the problem with the subcategory of plays and thought that since I filtered it in the kickstarter sheet it should also filter in the function.
